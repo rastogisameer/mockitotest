@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="InvoiceDAOTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2017-11-21T09:53:36" hostname="SYNPSZD2906" time="0.014">
+  <properties/>
+  <testcase name="testGet" classname="InvoiceDAOTest" time="0.014"/>
+  <system-out><![CDATA[invoiceDao
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
